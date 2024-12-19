@@ -22,7 +22,7 @@ How to Compile and Run
 Clone the repository:
 
 sh
-git clone https://github.com/soisalo/Scala.git
+git clone https://github.com/soisalo/PRG1.git
 cd Scala
 Compile the project:
 
